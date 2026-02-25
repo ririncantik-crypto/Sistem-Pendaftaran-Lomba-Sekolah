@@ -1,9 +1,11 @@
+www.linkedin.com/in/rinzani-fauziah-9919383a5
+
 # 🏫 Mini Project (Sistem Pendaftaran Lomba Sekolah)
 
-### Anggota Kelompok:
-- [Mochamad Naufal Hanif](www.linkedin.com/in/mochamad-naufal-hanif-652ab23a5)
-- [Keiyla Adya Azzani](www.linkedin.com/in/keiyla-adya-azzani-a75ab53a5)
-- [Rinzani Fauziah](www.linkedin.com/in/rinzani-fauziah-9919383a5)
+### Anggota Kelompok 4:
+- [Mochamad Naufal Hanif](18)
+- [Keiyla Adya Azzani](15)
+- [Rinzani Fauziah](31)
 
 *Kelas: XI RPL 1*
 
